@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c9f9a4d6596d245968f37e396cbba8f6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - music: {fileID: 8300000, guid: db0227b97f02a4fa399528e0ba699f9d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
